@@ -1,0 +1,14 @@
+C:\Users\munya\source\repos\Clock\obj\Debug\net8.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munya\source\repos\Clock\obj\Debug\net8.0\Clock.AssemblyInfoInputs.cache
+C:\Users\munya\source\repos\Clock\obj\Debug\net8.0\Clock.AssemblyInfo.cs
+C:\Users\munya\source\repos\Clock\obj\Debug\net8.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\munya\source\repos\Clock\bin\Debug\net8.0\Clock.exe
+C:\Users\munya\source\repos\Clock\bin\Debug\net8.0\Clock.deps.json
+C:\Users\munya\source\repos\Clock\bin\Debug\net8.0\Clock.runtimeconfig.json
+C:\Users\munya\source\repos\Clock\bin\Debug\net8.0\Clock.dll
+C:\Users\munya\source\repos\Clock\bin\Debug\net8.0\Clock.pdb
+C:\Users\munya\source\repos\Clock\obj\Debug\net8.0\Clock.dll
+C:\Users\munya\source\repos\Clock\obj\Debug\net8.0\refint\Clock.dll
+C:\Users\munya\source\repos\Clock\obj\Debug\net8.0\Clock.pdb
+C:\Users\munya\source\repos\Clock\obj\Debug\net8.0\Clock.genruntimeconfig.cache
+C:\Users\munya\source\repos\Clock\obj\Debug\net8.0\ref\Clock.dll
